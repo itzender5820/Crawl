@@ -18,14 +18,6 @@
 ---
 
 
-![STATS "./crawl <url> -S" ](stats.jpg)
-
-
-![HELP TAB "./crawl -h"](help_tab.jpg)
-
-
-
-
 ## Usage
 
 ```
@@ -163,6 +155,14 @@ crawl --warmup example.com -S https://example.com
 ```
 
 ---
+
+
+HELP TAB ./crawl -h
+
+![HELP TAB "./crawl -h"](help_tab.jpg)
+
+---
+
 
 ## Dependencies
 
